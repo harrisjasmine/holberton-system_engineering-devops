@@ -1,1 +1,2 @@
-absolute file pathname
+#!/bin/bash
+pwd
